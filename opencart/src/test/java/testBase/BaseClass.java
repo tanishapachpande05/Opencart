@@ -1,5 +1,5 @@
 package testBase;
 
-public class BaseClass {
+public class BaseClass  {
 
 }
